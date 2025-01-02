@@ -1,0 +1,30 @@
+{
+  "name": "fibonacci-test",
+  "version": "1.0.0",
+  "description": "Answer to fibonacci test question",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blakenetz/fibonacci-test.git"
+  },
+  "keywords": [
+    "fibonacci",
+    "typescript"
+  ],
+  "author": "blake Netzeband <blake.netzeband@gmail.com> (https://blakenetzeband.com/)",
+  "bugs": {
+    "url": "https://github.com/blakenetz/fibonacci-test/issues"
+  },
+  "homepage": "https://github.com/blakenetz/fibonacci-test#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "test": "^3.3.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
