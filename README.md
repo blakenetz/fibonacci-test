@@ -10,4 +10,5 @@ Given a 3-length array, return the nth number of the fibonacci sequence.
 For example:
 
 `[1,2,3]` would return `3`
+
 `[1,2,4]` would return `5`
