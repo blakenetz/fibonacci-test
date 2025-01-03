@@ -1,6 +1,6 @@
 export type FibArray = [number, number, number];
 
-export function getNthElement(fibArray: FibArray) {
+export default function (fibArray: FibArray) {
   const n = fibArray[2];
 
   const results = Array.from(fibArray.slice(0, 2));

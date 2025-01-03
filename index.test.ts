@@ -1,4 +1,4 @@
-import { FibArray, getNthElement } from "./index";
+import getNthElement, { FibArray } from "./index";
 import each from "jest-each";
 
 describe("should return the nth element of a Fibonacci sequence starting with 1", () => {
